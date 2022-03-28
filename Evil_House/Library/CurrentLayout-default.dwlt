@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Packages
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Packages
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Irina\OneDrive\Skrivebord\Carl'sHouse\Evil_House_MAIN\Evil_House
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 503d0000
-    m_LastClickedID: 15696
-    m_ExpandedIDs: 00000000503d000000ca9a3b
+    scrollPos: {x: 0, y: 60}
+    m_SelectedIDs: ffffff7f
+    m_LastClickedID: 2147483647
+    m_ExpandedIDs: 000000004a3d00005c3d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000004a3d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000cea20000c8a20000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -481,9 +481,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 663d0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 70fbffff
+      m_ExpandedIDs: 9efaffff72fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.655906, y: -0.3047668, z: -12.911949}
+    m_Target: {x: -3.8602324, y: 0.44160843, z: -17.799091}
     speed: 2
-    m_Value: {x: -3.655906, y: -0.3047668, z: -12.911949}
+    m_Value: {x: -3.8602324, y: 0.44160843, z: -17.799091}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -592,9 +592,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.09327387, y: 0.84901845, z: -0.1600364, w: -0.49483415}
+    m_Target: {x: -0.058989383, y: 0.9073027, z: -0.13602085, w: -0.39347857}
     speed: 2
-    m_Value: {x: -0.093033485, y: 0.84975773, z: -0.16017574, w: -0.4935589}
+    m_Value: {x: -0.058785144, y: 0.9078897, z: -0.13610886, w: -0.39211625}
   m_Size:
     m_Target: 10
     speed: 2
