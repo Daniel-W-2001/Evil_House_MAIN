@@ -325,6 +325,7 @@ MonoBehaviour:
   m_LastFolders:
   - Packages
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\Irina\OneDrive\Skrivebord\Carl'sHouse\Evil_House_MAIN\Evil_House
   m_LockTracker:
     m_IsLocked: 0
@@ -333,6 +334,16 @@ MonoBehaviour:
     m_SelectedIDs: ffffff7f
     m_LastClickedID: 2147483647
     m_ExpandedIDs: 000000004a3d00005c3d000000ca9a3bffffff7f
+=======
+  m_LastProjectPath: D:\Repos\Evil_House_MAIN\Evil_House
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 4a3d0000
+    m_LastClickedID: 15690
+    m_ExpandedIDs: 000000004a3d000000ca9a3b
+>>>>>>> main
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -483,7 +494,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 663d0000
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 9efaffff72fbffff
+=======
+      m_ExpandedIDs: 70fbffff
+>>>>>>> main
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
